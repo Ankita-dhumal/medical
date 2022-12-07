@@ -8,3 +8,4 @@
 * childen
 * smoker
 * region
+* bmi
